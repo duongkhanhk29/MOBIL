@@ -1,4 +1,4 @@
-The repository is for the publication at: Duong K (2024) What really matters for global intergenerational mobility? PLoS ONE 19(6): e0302173.
+The repository is for the publication at: Duong K (2024) **What really matters for global intergenerational mobility?** PLoS ONE 19(6): e0302173.
 
 The summary of this research can be found at: https://www.eurekalert.org/news-releases/1048258
 
